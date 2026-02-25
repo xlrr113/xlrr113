@@ -49,7 +49,8 @@ Spline-powered interactive sites with modern UI systems
 ---
 
 ## GitHub Stats
-> Optional: add stats cards (see below). Keep it minimal for a professional look.
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shaheerr1&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaheerr1&layout=compact)
 
 ---
 
