@@ -10,41 +10,73 @@ Building practical AI systems and clean, modern product experiences.
 - 📫 Reach me: YOUR_EMAIL | LinkedIn: YOUR_LINKEDIN | Portfolio: YOUR_PORTFOLIO
 
 ---
-
 ## Tech Stack
 
-**Languages:** Python, JavaScript/TypeScript, Swift, SQL  
-**AI/ML:** PyTorch/TensorFlow, scikit-learn, pandas, NumPy  
-**Backend:** Node.js, Express, FastAPI, Firebase  
-**Data/Streaming:** Kafka, Flink, Airflow  
-**Frontend:** React, TailwindCSS  
-**Tools:** Git, Docker, Linux/macOS, Xcode  
-**Design/3D:** Figma, Spline
+### Languages
+- Python, JavaScript, TypeScript, Swift, SQL, Bash
+
+### Machine Learning & AI
+- scikit-learn, PyTorch, TensorFlow/Keras
+- NLP: Hugging Face Transformers, Sentence-Transformers, spaCy, NLTK
+- Computer Vision: OpenCV, torchvision
+- Model evaluation: cross-validation, metrics, model interpretability (SHAP/LIME basics)
+
+### Data Engineering & Analytics
+- Pandas, NumPy, Apache Spark (PySpark)
+- Streaming: Apache Kafka
+- Orchestration: Apache Airflow
+- Data formats: JSON, Parquet, CSV
+
+### Backend & APIs
+- FastAPI, Flask, Node.js, Express.js
+- REST APIs, WebSockets
+- Authentication: JWT, OAuth basics
+
+### Databases & Storage
+- PostgreSQL, MySQL, SQLite
+- NoSQL: MongoDB, Firebase/Firestore
+- Caching: Redis
+- Object storage: S3-compatible (AWS S3 / MinIO)
+
+### MLOps, Deployment & DevOps
+- Docker, Docker Compose
+- CI/CD: GitHub Actions
+- Model serving: TensorFlow Serving / FastAPI inference APIs
+- Experiment tracking (basic): MLflow / Weights & Biases (optional)
+- Monitoring basics: logging, metrics, latency tracking
+
+### Cloud & Platforms
+- AWS (EC2/S3 basics), GCP/Azure basics
+- Linux, macOS
+- Server deployment: Nginx basics
+
+### Frontend
+- React, TailwindCSS, Next.js (optional)
+- UI engineering: responsive design, component systems
+
+### Mobile
+- iOS (Swift, SwiftUI, Xcode)
+- Flutter (Dart)
+
+### Tools & Workflow
+- Git, GitHub, Postman, VS Code
+- Jupyter Notebook, Conda/venv
+
+### Design & 3D
+- Figma, Spline (3D), UI/UX prototyping
 
 ---
 
-## Featured Projects
+## Highlights
+- End-to-end ML systems: from data prep and modeling to deployment and monitoring basics
+- Real-time data & analytics: Kafka/Airflow patterns, batch + streaming workflows
+- Full-stack delivery: APIs, databases, and modern UIs
+- Strong product sense: clean UI/UX and interactive 3D design workflows
 
-### 🚀 DE-QuantMania — Real-time Crypto Analytics Platform
-Kafka + Flink + FastAPI + Airflow + ML (anomaly/volatility/pattern detection)  
-- Real-time streaming pipeline and dashboards  
-- ML layer for market behavior insights  
-🔗 Repo: YOUR_REPO_LINK
-
-### 📱 UP Next — Productivity App
-Reminders • calendars • timetables • schedules • ML-based routines  
-🔗 Repo: YOUR_REPO_LINK
-
-### 🎨 3D Web Experiences
-Spline-powered interactive sites with modern UI systems  
-🔗 Repo: YOUR_REPO_LINK
-
----
-
-## What I’m working on
-- Building production-ready ML deployments & APIs
-- Strong portfolio projects with measurable impact
-- Clean UI/UX + real engineering depth
+## Interests
+- Responsible AI & security-aware ML
+- Model serving and production ML patterns
+- Building tools that feel premium (UI + performance + reliability)
 
 ---
 
